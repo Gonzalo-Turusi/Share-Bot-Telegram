@@ -1,0 +1,7 @@
+/encryption
+/venv
+**/__pycache__/
+bot.log
+/temp
+/logs
+Bot_Telegram.db
