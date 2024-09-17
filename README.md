@@ -59,7 +59,7 @@ The architecture of the bot is modular and follows a clear separation of concern
        TEST_ACTIVATED: True
        WORKER_INTERVAL: 1800
        RECIPIENTS: "recipient-email@gmail.com"
-    ```
+
 ## Deployment
 To deploy this application, first connect to the server.
 1. Stop the Windows service "Telegram_BOT".
